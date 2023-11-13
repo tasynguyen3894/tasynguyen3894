@@ -4,6 +4,6 @@ I'm software engineer. I have a passion for learning new knowledge and sharing m
 
 ## I work on
 
-- Laravel, Symfony, Django, Express, React.js, Vue.js
+- PHP (Laravel), Javascript (VueJS, ReactJS)
 
 - Postgresql, Mysql, MongoDB, Redis
