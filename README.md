@@ -16,6 +16,6 @@ In the front end, I have had chances to work with React, Vue, and Angular. Vue i
 
 For the deployment, I can do some basic stuff like deploy the PHP application and SPA somewhere like EC2, S3, or CloudFront in AWS.
 
-## Hobit
+## Hobbies
 
 In my free time, I like to write something. This is my blog: blog.sangnguyen.dev
